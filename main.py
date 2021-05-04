@@ -11,5 +11,5 @@ while not salir:
 	except:
 		print('no has expesificado bien alguno de los valores')	
 
-	if input('quieres  salir del programa') =='si':
+	if input('quieres  salir del programa\n') =='si':
 		salir=True	
